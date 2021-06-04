@@ -1,0 +1,19 @@
+{
+    "name": "@dhis2/bot",
+    "version": "1.0.0",
+    "description": "DHIS2 GitHub Bot",
+    "main": "src/main.js",
+    "repository": "https://github.com/dhis2/bot",
+    "author": "Viktor Varland",
+    "license": "BSD-3-Clause",
+    "private": true,
+    "devDependencies": {
+        "@dhis2/cli-style": "^8.3.0"
+    },
+    "dependencies": {
+        "probot": "^11.0.6"
+    },
+    "scripts": {
+        "start": "probot run ./src/main.js"
+    }
+}
