@@ -15,3 +15,4 @@ Your friendly neighborhood dhis2-bot.
     -   [ ] Automatically add links back to Jira if a ticket key can be
             found in a commit, description, or comment. Optionally, add a link
             to the PR in the Jira ticket.
+    -   [ ] Summon a `yarn-deduplication` run with a `@dhis2-bot dedupe` comment.
