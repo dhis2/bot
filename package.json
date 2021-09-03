@@ -8,10 +8,10 @@
     "license": "BSD-3-Clause",
     "private": true,
     "devDependencies": {
-        "@dhis2/cli-style": "^8.3.0"
+        "@dhis2/cli-style": "^9.2.0"
     },
     "dependencies": {
-        "probot": "^11.0.6"
+        "probot": "^12.1.1"
     },
     "scripts": {
         "start": "probot run ./src/main.js"
