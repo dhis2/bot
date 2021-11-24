@@ -16,3 +16,6 @@ Your friendly neighborhood dhis2-bot.
             found in a commit, description, or comment. Optionally, add a link
             to the PR in the Jira ticket.
     -   [ ] Summon a `yarn-deduplication` run with a `@dhis2-bot dedupe` comment.
+-   Workflows: Schedule
+    -   [ ] Trigger a workflow in another repo on a schedule to avoid the workflow being
+            disabled due to lack of activity in the repo.
